@@ -1,2 +1,2 @@
 # pec
-projetos de PEC 
+Proyectos inicialies educacional 
