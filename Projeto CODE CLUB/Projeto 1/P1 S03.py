@@ -1,0 +1,11 @@
+print("Adição e subtração")
+print("Quanto em dinheiro se 8 amigos dessem R$2,00 a você?")
+print(8*2)
+print("E se lavasse 12 carros e cobrasse R$12,50 por cada carro?")
+print(12*12,50)
+print()
+print("Quantos anos?")
+print(2025-2002)
+print(2025-1998)
+print(2050-1998)
+
